@@ -1,0 +1,7 @@
+orderservice\OrderServiceApplication.class
+orderservice\client\ProductClient.class
+orderservice\client\ProductDto.class
+orderservice\service\OrderService.class
+orderservice\repository\OrderRepository.class
+orderservice\entity\Order.class
+orderservice\controller\OrderController.class

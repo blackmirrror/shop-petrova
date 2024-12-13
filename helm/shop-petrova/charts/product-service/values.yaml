@@ -1,0 +1,5 @@
+image: "petrova/product-service:latest"
+replicaCount: 1
+service:
+  port: 8080
+env: {}
